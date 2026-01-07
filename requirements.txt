@@ -1,0 +1,16 @@
+# $QUANTAGENT Dependencies
+
+# Swarms AI Agent Framework
+ swarms>=5.0.0
+
+# Data Fetching (required)
+yfinance>=0.2.0
+
+# Numerical Computing (required)
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.11.0
+
+
+# Development (optional)
+# pytest>=7.0.0
