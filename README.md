@@ -53,37 +53,149 @@ This adds an AI analysis section that synthesizes all the computed metrics into 
 
 ```
 ============================================================
-  🤖 AI ANALYSIS (Powered by Swarms)
+  $QUANTAGENT - Analyzing BTC-USD
 ============================================================
 
 📡 Fetching data for BTC-USD...
-   ✓ Bitcoin USD - $91163.27
+   ✓ Bitcoin USD - $91,052.32
    Market Cap: $1.82T
 
 🌊 MARKET REGIME
+----------------------------------------
    Regime: LOW VOLATILITY
-   Confidence: 67%
+   Confidence: 66%
+   Trend Strength: 0.06
    Recommended: Breakout Anticipation
+   Bias: NEUTRAL
 
 📈 TECHNICAL ANALYSIS
-   RSI(14): 54.2 - Bullish
-   MACD: 598.16 - BULLISH ✅
-   Bollinger %B: 76%
-   Support: $86,266, $80,659
-   Resistance: $94,098
+----------------------------------------
+   RSI(14): 53.8 - Bullish
+   MACD: 589.31 - BULLISH ✅
+   Bollinger %B: 75%
+   ATR: $2505.83 (2.8%)
+
+   Support: $86,266.74, $80,659.81
+   Resistance: $94,098.38
 
 ⚠️  RISK METRICS
+----------------------------------------
    Daily VaR (95%): 3.44%
+   Daily CVaR (95%): 4.83%
    Sharpe Ratio: -0.07
+   Sortino Ratio: -0.10
    Max Drawdown: -32.1%
+   Annual Volatility: 34.5%
+
+📡 SIGNAL SUMMARY
+----------------------------------------
+   Signal: BUY 🟢
+   Score: 0.52
+   Confidence: 60%
 
 🎯 PRICE TARGETS
-   Target 1: $94,098 ▲ (+3.2%)  - 1-2 weeks
-   Target 2: $98,673 ▲ (+8.2%)  - 4-8 weeks
-   Target 3: $103,680 ▲ (+13.7%) - 3+ months
-   Stop Loss: $85,014
+----------------------------------------
+   Current: $91,052.32
+
+   Target 1: $94,098.38 ▲ (+3.3%)
+            Timeframe: 1-2 weeks
+            Confidence: 70%
+            R:R Ratio: 0.5
+
+   Target 2: $98,569.82 ▲ (+8.3%)
+            Timeframe: 4-8 weeks
+            Confidence: 55%
+            R:R Ratio: 1.2
+
+   Target 3: $103,581.49 ▲ (+13.8%)
+            Timeframe: 3+ months
+            Confidence: 40%
+            R:R Ratio: 2.1
+
+   Stop Loss: $85,013.83
+
+💰 POSITION SIZING (Example: $10,000 account, 2% risk)
+----------------------------------------
+   Shares: 0
+   Position Value: $2,000.00
+   Risk Amount: $132.64
+   Risk/Reward: 0.50
+
+============================================================
+  SUMMARY
+============================================================
 
    🟢 BULLISH - Consider long positions
+
+   Key Levels:
+   • Entry: $91,052.32
+   • Target 1: $94,098.38
+   • Stop Loss: $85,013.83
+
+============================================================
+  🤖 AI ANALYSIS (Powered by Swarms)
+============================================================
+
+   Generating AI insights...
+
+╭──────────────────────────────────────────────────────────────────────────────────────── Agent Name QuantAgent [Max Loops: 1 ] ────────────────────────────────────────────────────────────────────────────────────────╮
+│ ### Market Context                                                                                                                                                                                                    │
+│ Bitcoin (BTC-USD) is currently trading at $91,052.32, sitting well above its 52-week low of $74,436.68 but significantly below its 52-week high of $126,198.07. The market is in a low-volatility regime, indicating  │
+│ a stable price environment, but with a weak trend strength of 0.06, suggesting potential indecision among traders.                                                                                                    │
+│                                                                                                                                                                                                                       │
+│ ### Key Technical Observations                                                                                                                                                                                        │
+│ - **RSI(14)** at 53.8 indicates that Bitcoin is neither overbought nor oversold, allowing for potential upside.                                                                                                       │
+│ - **MACD** shows a positive divergence with the MACD line at 589.31 above the signal line at -122.37, signaling bullish momentum.                                                                                     │
+│ - **Bollinger %B** at 75% suggests that the price is approaching the upper band, which could indicate a breakout or potential resistance at $94,098.38.                                                               │
+│ - **ATR** indicates a relatively low volatility of $2505.83, which may suggest limited price swings in the near term.                                                                                                 │
+│                                                                                                                                                                                                                       │
+│ ### Risk Assessment                                                                                                                                                                                                   │
+│ Key risks include:                                                                                                                                                                                                    │
+│ - A potential reversal if Bitcoin fails to break above resistance at $94,098.38, leading to a pullback towards support levels.                                                                                        │
+│ - The negative Sharpe and Sortino ratios (-0.07 and -0.10, respectively) indicate that the risk-adjusted returns are unfavorable, which could deter investors.                                                        │
+│ - The Daily VaR of 3.44% and CVaR of 4.83% suggest the potential for significant losses in adverse conditions.                                                                                                        │
+│                                                                                                                                                                                                                       │
+│ ### Trading Recommendation                                                                                                                                                                                            │
+│ - **Action**: BUY BTC-USD                                                                                                                                                                                             │
+│ - **Entry Point**: $91,052.32                                                                                                                                                                                         │
+│ - **Targets**:                                                                                                                                                                                                        │
+│   - Target 1: $94,098.38 (immediate resistance)                                                                                                                                                                       │
+│   - Target 2: $98,569.82 (next psychological level)                                                                                                                                                                   │
+│   - Target 3: $103,581.49 (52-week high proximity)                                                                                                                                                                    │
+│ - **Stop Loss**: $85,013.83 (below key support at $86,266.74)                                                                                                                                                         │
+│                                                                                                                                                                                                                       │
+│ ### Confidence Level                                                                                                                                                                                                  │
+│ I have a **confidence level of 60%** in this analysis. The buy signal is supported by technical indicators, but the overall market conditions and risk metrics suggest caution. Monitoring price action around key    │
+│ resistance levels will be crucial.                                                                                                                                                                                    │
+╰───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+### Market Context
+Bitcoin (BTC-USD) is currently trading at $91,052.32, sitting well above its 52-week low of $74,436.68 but significantly below its 52-week high of $126,198.07. The market is in a low-volatility regime, indicating a stable price environment, but with a weak trend strength of 0.06, suggesting potential indecision among traders.
+
+### Key Technical Observations
+- **RSI(14)** at 53.8 indicates that Bitcoin is neither overbought nor oversold, allowing for potential upside.
+- **MACD** shows a positive divergence with the MACD line at 589.31 above the signal line at -122.37, signaling bullish momentum.
+- **Bollinger %B** at 75% suggests that the price is approaching the upper band, which could indicate a breakout or potential resistance at $94,098.38.
+- **ATR** indicates a relatively low volatility of $2505.83, which may suggest limited price swings in the near term.
+
+### Risk Assessment
+Key risks include:
+- A potential reversal if Bitcoin fails to break above resistance at $94,098.38, leading to a pullback towards support levels.
+- The negative Sharpe and Sortino ratios (-0.07 and -0.10, respectively) indicate that the risk-adjusted returns are unfavorable, which could deter investors.
+- The Daily VaR of 3.44% and CVaR of 4.83% suggest the potential for significant losses in adverse conditions.
+
+### Trading Recommendation
+- **Action**: BUY BTC-USD
+- **Entry Point**: $91,052.32
+- **Targets**: 
+  - Target 1: $94,098.38 (immediate resistance)
+  - Target 2: $98,569.82 (next psychological level)
+  - Target 3: $103,581.49 (52-week high proximity)
+- **Stop Loss**: $85,013.83 (below key support at $86,266.74)
+
+### Confidence Level
+I have a **confidence level of 60%** in this analysis. The buy signal is supported by technical indicators, but the overall market conditions and risk metrics suggest caution. Monitoring price action around key resistance levels will be crucial.
+
+⚠️  DISCLAIMER: This is not financial advice. Do your own research.
 ```
 
 ---
